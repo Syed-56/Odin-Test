@@ -4,6 +4,9 @@
     padding: 0; 
     box-sizing: border-box; 
 }
+body {
+    background-color: beige;
+}
 
 .main-heading {
     background-color: chocolate;
