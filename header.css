@@ -15,11 +15,19 @@ body {
     color: white;
 }
 
-footer {
+.footer {
     background-color: chocolate;
     margin: auto;
     padding: 20px;
+    text-align: center;
+  }
+  .footer p {
     color: white;
     font-weight: bold;
-    text-align: center;
-}
+  }
+  .footer a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline;
+  }

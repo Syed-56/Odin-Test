@@ -9,7 +9,7 @@
     border-radius: 10%;
 }
 
-a {
+.recipe-list a {
     position: absolute;
     top: 50%;
     left: 50%;
