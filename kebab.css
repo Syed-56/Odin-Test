@@ -1,0 +1,67 @@
+.top-bar {
+    background-color: saddlebrown;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button, .biryani, .pasta {
+    background-color: white;
+    margin: 100px;
+    padding: 20px;
+    border-radius: 30%;
+    border: none;
+}
+.button a, #biryani-text a, #pasta-text a {
+    color: chocolate;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h4 {
+    color: chocolate;
+    font-size: 50px;
+    margin: 40px;
+    padding-right: 40px;
+}
+.kebab-heading {
+    text-align: center;
+    color: chocolate;
+    font-size: 100px;
+}
+img {
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.kebab-para {
+    margin-left: 50px;
+    margin-right: 50px;;
+    display: inline-block;
+    width: 600px;
+    padding: 20px 20px 20px;
+    padding-right: 50px;
+    font-size: 20px;
+    color: chocolate;
+}
+hr {
+    height: 5px;
+    background-color: chocolate;
+    border: none;
+    margin: 50px
+}
+li {
+    margin: 50px;
+    color: chocolate;
+    font-size: 30px;
+}
+ol, ul {
+    border-radius: 10%;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(255, 255, 255,0.7);
+}
